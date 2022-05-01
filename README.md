@@ -12,7 +12,7 @@
 
 🏡 I’m from Brazil.
 
-📚 I’m currently learning Python.
+📚 I’m currently learning WEB.
 
  
 
