@@ -23,8 +23,8 @@
 
 ## Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcossouto00&theme=github_dark)](https://github.com/MarcosSouto00/github-readme-stats)
-![MarcosSouto00's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSouto00&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossouto0&theme=github_dark)](https://github.com/MarcosSouto00/github-readme-stats)
+![MarcosSouto00's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcossouto0&show_icons=true&theme=github_dark)
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
