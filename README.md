@@ -8,11 +8,11 @@
 
 💻 I want to be a Full-Stack Developer!
 
-⏲️ I'm 13 years old
+⏲️ I'm 14 years old
 
 🏡 I’m from Brazil.
 
-📚 I’m currently learning WEB.
+📚 I’m currently learning WEB development.
 
  
 
