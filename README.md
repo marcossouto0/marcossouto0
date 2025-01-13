@@ -4,16 +4,13 @@
 
 ## I'm Marcos!
 
- 
 
-💻 I want to be a Full-Stack Developer!
 
-⏲️ I'm 14 years old
+💻 I want to be a developer!
+
+⏲️ I'm 16 years old
 
 🏡 I’m from Brazil.
-
-📚 I’m currently learning WEB development.
-
  
 
 ## About me
