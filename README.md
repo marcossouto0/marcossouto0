@@ -16,7 +16,7 @@
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/SocrammBR)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MarcosSouto00/)](https://github.com/MarcosSouto00/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MarcosSouto00/)](https://github.com/marcossouto0/)
 
 ## Languages and Tools:
 
