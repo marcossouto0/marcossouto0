@@ -4,10 +4,6 @@
 
 ## I'm Marcos!
 
-
-
-💻 I want to be a developer!
-
 ⏲️ I'm 16 years old
 
 🏡 I’m from Brazil.
